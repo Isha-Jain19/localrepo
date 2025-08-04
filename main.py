@@ -16,7 +16,7 @@ def factorial(n):
 def main():
     name = input("Enter your name: ")
     print(greet(name))
-    print("Square of 3 is:", square(3))
+    print("square of 3 is:", square(3))
     print("Cube of 3 is:", cube(3))
     print("Factorial of 5 is:", factorial(5))
 
